@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning Svelte
 - 💞️ I’m looking to collaborate on any cool projects you have
 - 📫 Reach me at studiodazer@gmail.com
-- 📩 Any post request are welcome and will be appreciated
+- 📩 Any post requests are welcome and will be appreciated
