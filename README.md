@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dazerstudio
-- 🏳  I'm dutch
+- 👋 Hi, I’m @dazerstudio.
+- 🏳  I'm dutch.
 - 💻 I'm currently working on Hoogeland-Pauzes, Hoogeland-Menu.
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Svelte
-- 💞️ I’m looking to collaborate on any cool projects you have
-- 📫 Reach me at studiodazer@gmail.com
-- 📩 Any pull requests are welcome and will be appreciated
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning React.
+- 💞️ I’m looking to collaborate on any cool projects you have.
+- 📫 Reach me at studiodazer@gmail.com.
+- 📩 Any pull requests are welcome and will be appreciated.
