@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dazerstudio.
 - 🏳  I'm dutch.
-- 💻 I'm currently working on Hoogeland-Pauzes, Hoogeland-Menu.
+- 💻 I'm currently working on Hoogeland-Pauzes, Hoogeland-Menu, Textcast.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on any cool projects you have.
