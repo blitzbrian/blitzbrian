@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @dazerstudio.
-- 🏳  I'm Dutch.
-- 💻 I'm currently working on Hoogeland-Menu
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on any cool projects you have.
-- 📫 Reach me at studiodazer@gmail.com.
-- 📩 Any pull requests are welcome and will be appreciated.
+![header image](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
